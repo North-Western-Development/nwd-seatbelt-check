@@ -2,7 +2,7 @@ fx_version 'cerulean'
 games { 'gta5' }
 
 author 'Jackson Abney <jackson.abney@northwesterndevelopment.com>'
-description 'Script Template'
+description 'Seatbelt Check'
 version '1.0.0'
 
 client_scripts {
